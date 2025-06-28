@@ -1,0 +1,13 @@
+student_dir,opponent,games_won,num_ties,student_stacks,opponent_stacks,points_earned
+b11902164,baseline1,3,0,3478,2522,5
+b11902164,baseline2,2,0,4384,5616,3.0
+b11902164,baseline3,3,0,3770,2230,5
+b11902164,baseline4,2,0,2583,7417,3.0
+b11902164,baseline5,3,0,4672,5328,5
+b11902164,baseline6,1,0,4923,5077,2.5
+b11902164,baseline7,3,0,7828,2172,5
+b11902164,strong1,1,0,5007,4993,0
+b11902164,strong2,3,0,5855,4145,2
+b11902164,strong3,1,0,4702,5298,0
+b11902164,strong4,1,0,2403,7597,0
+b11902164,strong5,3,0,5925,4075,2
